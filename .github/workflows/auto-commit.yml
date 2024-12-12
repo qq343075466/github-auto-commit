@@ -19,8 +19,8 @@ jobs:
         run: |
           # You should set your email and name here.
 
-          git config --global user.email "wzw15292257101@163.com"
-          git config --global user.name "dribble-njr"
+          git config --global user.email "qq343075466@gmail.com"
+          git config --global user.name "qq343075466"
 
       - name: Get all repositories
         id: get-repos
